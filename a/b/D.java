@@ -12,6 +12,6 @@ public class D {
         int abc = 108;
         int cde = abc * 5;
         abc = cde + 7;
-        abc=abc+1;
+        abc=abc+12;
 
    }
